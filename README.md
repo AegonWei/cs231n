@@ -3,6 +3,4 @@
 
 教程笔记 cs231n.github.io
 
-课程主页 stanford cs231n
-
-进度安排 course syllabus
+课程主页 http://cs231n.stanford.edu
